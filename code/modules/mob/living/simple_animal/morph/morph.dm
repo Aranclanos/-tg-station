@@ -29,7 +29,6 @@
 	wander = 0
 
 	var/morphed = 0
-	//var/atom/movable/form = null
 	var/morph_time = 0
 
 /mob/living/simple_animal/hostile/morph/examine(mob/user)
